@@ -1,0 +1,13 @@
+{
+  "name": "vuln-notes-express",
+  "version": "0.0.0",
+  "private": true,
+  "description": "INTENTIONALLY VULNERABLE Express app for AI-assisted security analysis exercises. Do not deploy.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
